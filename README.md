@@ -5,8 +5,8 @@
 
 ## <div align=center>🎯 My Github Stats</div>
 <div align=center >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true" alt="Habu's github stats" height=180/> &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habuhenka&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=180/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=agunghabu&theme=onedark&hide_border=true" alt="Habu's github stats" height=180/> &nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=180/>
 </div>
 
 ## <div align=center>🛠️ My Tech Stack</div>
