@@ -17,12 +17,12 @@
 
 ## <div align=center>🛠️ My Tech Stack</div>
 <p align="center">
-  <a href=https://www.python.org><img src="https://github.com/habuhenka/habuhenka/blob/main/Python.svg" alt="Python" height=120/></a> &nbsp
-  <a href=https://jupyter.org><img src="https://github.com/habuhenka/habuhenka/blob/main/Jupyter.svg" alt="Jupyter Notebook" height=120/></a> &nbsp
-  <a href=https://www.anaconda.com><img src="https://github.com/habuhenka/habuhenka/blob/main/Anaconda.svg" alt="Anaconda" height=120/></a> &nbsp
-  <a href=https://www.tensorflow.org><img src="https://github.com/habuhenka/habuhenka/blob/main/TensorFlow.svg" alt="TensorFlow" height=120/></a> &nbsp
-  <a href=https://keras.io><img src="https://github.com/habuhenka/habuhenka/blob/main/Keras.svg" alt="Keras" height=120/></a> &nbsp
-  <a href=https://colab.research.google.com><img src="https://github.com/habuhenka/habuhenka/blob/main/Colab.svg" alt="Google Colab" height=120/></a> &nbsp
+  <a href=https://www.python.org><img src="https://raw.githubusercontent.com/habuhenka/habuhenka/62df2680c779a50331c1ec4cc15f5ace0e57082b/Python.svg" alt="Python" height=120/></a> &nbsp
+  <a href=https://jupyter.org><img src="https://raw.githubusercontent.com/habuhenka/habuhenka/62df2680c779a50331c1ec4cc15f5ace0e57082b/Jupyter.svg" alt="Jupyter Notebook" height=120/></a> &nbsp
+  <a href=https://www.anaconda.com><img src="https://raw.githubusercontent.com/habuhenka/habuhenka/62df2680c779a50331c1ec4cc15f5ace0e57082b/Anaconda.svg" alt="Anaconda" height=120/></a> &nbsp
+  <a href=https://www.tensorflow.org><img src="https://raw.githubusercontent.com/habuhenka/habuhenka/62df2680c779a50331c1ec4cc15f5ace0e57082b/TensorFlow.svg" alt="TensorFlow" height=120/></a> &nbsp
+  <a href=https://keras.io><img src="https://raw.githubusercontent.com/habuhenka/habuhenka/62df2680c779a50331c1ec4cc15f5ace0e57082b/Keras.svg" alt="Keras" height=120/></a> &nbsp
+  <a href=https://colab.research.google.com><img src="https://raw.githubusercontent.com/habuhenka/habuhenka/62df2680c779a50331c1ec4cc15f5ace0e57082b/Colab.svg" alt="Google Colab" height=120/></a> &nbsp
 </p>
 
 ## <div align=center>🚀 My Projects</div>
