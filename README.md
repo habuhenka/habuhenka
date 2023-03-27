@@ -5,7 +5,7 @@
 
 ## <div align=center>🎯 My Github Stats</div>
 <div align=center >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=agunghabu&theme=onedark&hide_border=true" alt="Habu's github stats" height=180/> &nbsp
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true" alt="Habu's github stats" height=180/> &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=180/>
 </div>
 
@@ -64,8 +64,8 @@
 
 ## <div align=center>🏆 My Top Repositories & ❤️ My Favorite Repositories</div>
 <div align=center>
-  <a href=https://github.com/habuhenka/tech_stack> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
-  <a href=https://github.com/habuhenka/habuhenka> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
+  <a href=https://github.com/habuhenka/habuhenka> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&border_color=282c34" alt="Habu's github stats"/> </a> &nbsp &nbsp
+  <a href=https://github.com/habuhenka/tech_stack> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=onedark" alt="Habu's github stats"/> </a>
 </div>
 <!--&nbsp
 <div align=center>
