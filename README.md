@@ -4,9 +4,15 @@
 <p align=center>I'm a passionate software engineer with a keen interest in creating awesome applications that make people's lives easier. I love to learn and explore new technologies to stay up-to-date with the latest trends in software development.</p>
 
 ## <div align=center>🎯 My Github Stats</div>
-<div align=center >
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true" alt="Habu's github stats" height=180/> &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" alt="Habu's github stats" height=180/>
+<div align=center>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=solarized_light&hide_border=true" height=180/>
+  </picture> &nbsp
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=solarized-light&count_private=true" height=180/>
+  </picture>
 </div>
 
 ## <div align=center>🛠️ My Tech Stack</div>
