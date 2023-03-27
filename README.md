@@ -71,11 +71,11 @@
 ## <div align=center>🏆 My Top Repositories & ❤️ My Favorite Repositories</div>
 <div align=center>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&theme=onedark&border_color=282c34" height=160 />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&theme=onedark&border_color=282c34" height=150 />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&theme=solarized-light&border_color=282c34" height=180/>
   </picture> &nbsp &nbsp
   <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=onedark" height=160 />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=onedark" height=150 />
    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=solarized-light" height=180/>
   </picture>
 </div>
