@@ -64,8 +64,8 @@
 
 ## <div align=center>🏆 My Top Repositories & ❤️ My Favorite Repositories</div>
 <div align=center>
-  <a href=https://github.com/habuhenka/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
-  <a href=https://github.com/habuhenka/Flutter-Task> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
+  <a href=https://github.com/habuhenka/tech_stack> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
+  <a href=https://github.com/habuhenka/habuhenka> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
 </div>
 <!--&nbsp
 <div align=center>
