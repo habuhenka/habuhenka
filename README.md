@@ -6,11 +6,11 @@
 ## <div align=center>🎯 My Github Stats</div>
 <div align=center>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=solarized_light&hide_border=true" height=180/>
   </picture> &nbsp
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=habuhenka&theme=onedark&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=onedark&count_private=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agunghabu&layout=compact&hide_border=true&theme=solarized-light&count_private=true" height=180/>
   </picture>
 </div>
@@ -70,11 +70,12 @@
 
 ## <div align=center>🏆 My Top Repositories & ❤️ My Favorite Repositories</div>
 <div align=center>
-  <a href=https://github.com/habuhenka/habuhenka> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&theme=onedark&border_color=282c34" alt="Habu's github stats"/> </a> &nbsp &nbsp
-  <a href=https://github.com/habuhenka/tech_stack> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=onedark" alt="Habu's github stats"/> </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&theme=onedark&border_color=282c34" height=160 />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&theme=solarized-light&border_color=282c34" height=180/>
+  </picture> &nbsp &nbsp
+  <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=onedark" height=160 />
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=solarized-light" height=180/>
+  </picture>
 </div>
-<!--&nbsp
-<div align=center>
-  <a href=https://github.com/habuhenka/static-web> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=static-web&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp &nbsp 
-  <a href=https://github.com/habuhenka/Flutter-Task> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=Flutter-Task&border_color=e4bf7a&theme=onedark" alt="Habu's github stats"/> </a>
-</div>-->
