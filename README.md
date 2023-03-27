@@ -64,7 +64,7 @@
 
 ## <div align=center>🏆 My Top Repositories & ❤️ My Favorite Repositories</div>
 <div align=center>
-  <a href=https://github.com/habuhenka/habuhenka> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&border_color=282c34" alt="Habu's github stats"/> </a> &nbsp &nbsp
+  <a href=https://github.com/habuhenka/habuhenka> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=habuhenka&border_color=282c34&theme=onedark" alt="Habu's github stats"/> </a> &nbsp &nbsp
   <a href=https://github.com/habuhenka/tech_stack> <img src="https://github-readme-stats.vercel.app/api/pin/?username=habuhenka&repo=tech_stack&border_color=282c34&theme=onedark" alt="Habu's github stats"/> </a>
 </div>
 <!--&nbsp
